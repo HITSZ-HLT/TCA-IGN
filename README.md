@@ -37,5 +37,5 @@ If you find our work useful for your research, please kindly cite our paper as f
 ```
 
 ## Credits
-The code of this repository partly relies on [DAG-ERC](https://github.com/shenwzh3/DAG-ERC) and I would like to show my sincere gratitude to the authors behind these contributions.
+The code of this repository partly relies on [WTM](https://github.com/zll17/Neural_Topic_Models) and [DAG-ERC](https://github.com/shenwzh3/DAG-ERC). I would like to show my sincere gratitude to the authors behind these contributions.
 
